@@ -1,3 +1,30 @@
-2025/06/23-22:49:54.985 3104 Reusing MANIFEST D:\New folder\pihustore\backend\whatsapp-session\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/06/23-22:49:55.008 3104 Recovering log #678
-2025/06/23-22:49:55.761 3104 Reusing old log D:\New folder\pihustore\backend\whatsapp-session\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000678.log 
+2025/06/29-18:31:05.962 530 Reusing MANIFEST D:\New folder\pihustore\backend\whatsapp-session\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/06/29-18:31:05.964 530 Recovering log #3336
+2025/06/29-18:31:05.964 530 Reusing old log D:\New folder\pihustore\backend\whatsapp-session\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/003336.log 
+2025/06/29-18:31:05.965 530 Delete type=2 #3334
+2025/06/29-18:31:05.965 530 Delete type=2 #3335
+2025/06/29-18:31:09.931 4718 Compacting 1@1 + 10@2 files
+2025/06/29-18:31:10.182 4718 Generated table #3341@1: 87933 keys, 2237893 bytes
+2025/06/29-18:31:10.395 4718 Generated table #3342@1: 69335 keys, 2232545 bytes
+2025/06/29-18:31:10.602 4718 Generated table #3343@1: 49153 keys, 2207629 bytes
+2025/06/29-18:31:10.706 4718 Level-0 table #3346: started
+2025/06/29-18:31:10.714 4718 Level-0 table #3346: 14432 bytes OK
+2025/06/29-18:31:10.717 4718 Delete type=0 #3336
+2025/06/29-18:31:10.773 4718 Generated table #3344@1: 25720 keys, 2181224 bytes
+2025/06/29-18:31:10.825 4718 Generated table #3347@1: 1389 keys, 2140681 bytes
+2025/06/29-18:31:10.906 4718 Generated table #3348@1: 3095 keys, 2164769 bytes
+2025/06/29-18:31:10.997 4718 Generated table #3349@1: 3606 keys, 2154282 bytes
+2025/06/29-18:31:11.069 4718 Generated table #3350@1: 2935 keys, 2149889 bytes
+2025/06/29-18:31:11.199 4718 Generated table #3351@1: 19853 keys, 2198018 bytes
+2025/06/29-18:31:11.646 4718 Generated table #3352@1: 27434 keys, 2263614 bytes
+2025/06/29-18:31:11.662 4718 Generated table #3353@1: 895 keys, 68970 bytes
+2025/06/29-18:31:11.662 4718 Compacted 1@1 + 10@2 files => 21999514 bytes
+2025/06/29-18:31:11.664 4718 compacted to: files[ 1 1 26 0 0 0 0 ]
+2025/06/29-18:31:11.666 231c Manual compaction at level-0 from '\x00i\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00j\x00\x00\x00' @ 0 : 0; will stop at '\x00i\x00\x00\x05' @ 10689964 : 1
+2025/06/29-18:31:11.666 231c Compacting 1@0 + 1@1 files
+2025/06/29-18:31:11.675 231c Generated table #3354@0: 379 keys, 7822 bytes
+2025/06/29-18:31:11.694 231c Generated table #3355@0: 2654 keys, 105305 bytes
+2025/06/29-18:31:11.695 231c Compacted 1@0 + 1@1 files => 113127 bytes
+2025/06/29-18:31:11.696 231c compacted to: files[ 0 2 26 0 0 0 0 ]
+2025/06/29-18:31:11.697 231c Delete type=2 #3346
+2025/06/29-18:31:11.698 231c Manual compaction at level-0 from '\x00i\x00\x00\x05' @ 10689964 : 1 .. '\x00j\x00\x00\x00' @ 0 : 0; will stop at (end)

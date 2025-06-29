@@ -182,9 +182,11 @@ const saveOrder = async (req, res) => {
     // Send WhatsApp messages using whatsapp-web.js
     const adminResult = await whatsappService.sendMessage('919301680755', adminMessage);
     const customerResult = await whatsappService.sendMessage(address.phone, customerMessage);
+    const smsResult = await whatsappService.sendTextSMS(address.phone,customerMessage);
 
     console.log('Admin notification:', adminResult);
     console.log('Customer notification:', customerResult);
+    console.log('Customer text message:', smsResult);
 
     res.status(200).json({
       message: 'Order saved successfully',
