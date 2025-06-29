@@ -15,7 +15,8 @@ const app = express();
 app.use(cors({
   origin: (origin, callback) => {
     const allowedOrigins = [
-      "http://localhost:5173"
+      "http://localhost:5173",
+      "https://pihustore.shop/"
     ];
     if (!origin || allowedOrigins.includes(origin)) {
       callback(null, true);
