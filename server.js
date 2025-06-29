@@ -13,12 +13,22 @@ const app = express();
 
 // Middleware
 app.use(cors({
-  origin: ["http://localhost:5173"],
-  methods: ['GET', 'POST'],
-  allowedHeaders: ['Content-Type'],
+  origin: (origin, callback) => {
+    const allowedOrigins = [
+      "http://localhost:5173"
+    ];
+    if (!origin || allowedOrigins.includes(origin)) {
+      callback(null, true);
+    } else {
+      callback(new Error("Not allowed by CORS"));
+    }
+  },
   credentials: true,
+  methods: ['GET', 'POST', 'PUT', 'DELETE'],
+  allowedHeaders: ['Content-Type'],
   optionsSuccessStatus: 204
-})); 
+}));
+
 
 app.use(express.json());
 
