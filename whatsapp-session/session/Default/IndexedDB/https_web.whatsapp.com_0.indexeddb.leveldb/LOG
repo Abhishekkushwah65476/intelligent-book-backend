@@ -1,63 +1,58 @@
-2025/06/29-18:31:22.934 13e0 Reusing MANIFEST D:\New folder\pihustore\backend\whatsapp-session\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/06/29-18:31:22.936 13e0 Recovering log #3345
-2025/06/29-18:31:22.936 13e0 Reusing old log D:\New folder\pihustore\backend\whatsapp-session\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/003345.log 
-2025/06/29-18:31:22.936 13e0 Delete type=2 #3320
-2025/06/29-18:31:22.936 13e0 Delete type=2 #3321
-2025/06/29-18:31:22.936 13e0 Delete type=2 #3322
-2025/06/29-18:31:22.936 13e0 Delete type=2 #3323
-2025/06/29-18:31:22.936 13e0 Delete type=2 #3324
-2025/06/29-18:31:22.936 13e0 Delete type=2 #3325
-2025/06/29-18:31:22.936 13e0 Delete type=2 #3326
-2025/06/29-18:31:22.940 13e0 Delete type=2 #3327
-2025/06/29-18:31:22.941 13e0 Delete type=2 #3328
-2025/06/29-18:31:22.941 13e0 Delete type=2 #3329
-2025/06/29-18:31:22.941 13e0 Delete type=2 #3338
-2025/06/29-18:31:22.941 13e0 Delete type=2 #3339
-2025/06/29-18:31:28.157 3d70 Compacting 1@1 + 2@2 files
-2025/06/29-18:31:28.424 3d70 Generated table #3357@1: 87928 keys, 2238905 bytes
-2025/06/29-18:31:28.635 3d70 Generated table #3358@1: 69384 keys, 2231403 bytes
-2025/06/29-18:31:28.667 3d70 Generated table #3359@1: 34 keys, 3492 bytes
-2025/06/29-18:31:28.668 3d70 Compacted 1@1 + 2@2 files => 4473800 bytes
-2025/06/29-18:31:28.670 3d70 compacted to: files[ 0 1 27 0 0 0 0 ]
-2025/06/29-18:31:28.671 3d70 Delete type=2 #3341
-2025/06/29-18:31:28.671 3d70 Delete type=2 #3342
-2025/06/29-18:31:28.671 3d70 Delete type=2 #3354
-2025/06/29-18:31:28.810 c30 Level-0 table #3361: started
-2025/06/29-18:31:28.822 c30 Level-0 table #3361: 14614 bytes OK
-2025/06/29-18:31:28.824 c30 Delete type=0 #3345
-2025/06/29-18:31:28.826 c30 Manual compaction at level-0 from '\x00j\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00k\x00\x00\x00' @ 0 : 0; will stop at '\x00j\x00\x00\x05' @ 10690612 : 1
-2025/06/29-18:31:28.826 c30 Compacting 1@0 + 1@1 files
-2025/06/29-18:31:28.840 c30 Generated table #3362@0: 379 keys, 7821 bytes
-2025/06/29-18:31:28.861 c30 Generated table #3363@0: 2654 keys, 105305 bytes
-2025/06/29-18:31:28.861 c30 Compacted 1@0 + 1@1 files => 113126 bytes
-2025/06/29-18:31:28.863 c30 compacted to: files[ 0 2 27 0 0 0 0 ]
-2025/06/29-18:31:28.864 c30 Delete type=2 #3361
-2025/06/29-18:31:28.866 c30 Manual compaction at level-0 from '\x00j\x00\x00\x05' @ 10690612 : 1 .. '\x00k\x00\x00\x00' @ 0 : 0; will stop at (end)
-2025/06/29-18:31:37.171 3d70 Compacting 1@1 + 7@2 files
-2025/06/29-18:31:37.374 3d70 Generated table #3364@1: 32263 keys, 2206758 bytes
-2025/06/29-18:31:37.478 3d70 Generated table #3365@1: 6846 keys, 2133012 bytes
-2025/06/29-18:31:37.640 3d70 Generated table #3366@1: 13077 keys, 2138423 bytes
-2025/06/29-18:31:38.015 3d70 Generated table #3367@1: 108349 keys, 2261318 bytes
-2025/06/29-18:31:38.336 3d70 Generated table #3368@1: 100887 keys, 2251112 bytes
-2025/06/29-18:31:38.646 3d70 Generated table #3369@1: 101209 keys, 2252522 bytes
-2025/06/29-18:31:38.827 3d70 Generated table #3370@1: 59073 keys, 1310811 bytes
-2025/06/29-18:31:38.827 3d70 Compacted 1@1 + 7@2 files => 14553956 bytes
-2025/06/29-18:31:38.829 3d70 compacted to: files[ 0 1 27 0 0 0 0 ]
-2025/06/29-18:31:38.830 3d70 Delete type=2 #3313
-2025/06/29-18:31:38.830 3d70 Delete type=2 #3314
-2025/06/29-18:31:38.830 3d70 Delete type=2 #3315
-2025/06/29-18:31:38.830 3d70 Delete type=2 #3316
-2025/06/29-18:31:38.830 3d70 Delete type=2 #3317
-2025/06/29-18:31:38.830 3d70 Delete type=2 #3318
-2025/06/29-18:31:38.830 3d70 Delete type=2 #3319
-2025/06/29-18:31:38.830 3d70 Delete type=2 #3355
-2025/06/29-18:31:38.830 3d70 Delete type=2 #3363
-2025/06/29-18:31:38.944 2840 Compacting 1@1 + 2@2 files
-2025/06/29-18:31:39.154 2840 Generated table #3371@1: 87812 keys, 2237189 bytes
-2025/06/29-18:31:39.450 2840 Generated table #3372@1: 69545 keys, 2232541 bytes
-2025/06/29-18:31:39.483 2840 Generated table #3373@1: 33 keys, 3424 bytes
-2025/06/29-18:31:39.483 2840 Compacted 1@1 + 2@2 files => 4473154 bytes
-2025/06/29-18:31:39.485 2840 compacted to: files[ 0 0 28 0 0 0 0 ]
-2025/06/29-18:31:39.485 2840 Delete type=2 #3357
-2025/06/29-18:31:39.486 2840 Delete type=2 #3358
-2025/06/29-18:31:39.486 2840 Delete type=2 #3362
+2025/07/03-23:36:03.833 46ec Reusing MANIFEST D:\New folder\pihustore\backend\whatsapp-session\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/07/03-23:36:03.835 46ec Recovering log #3671
+2025/07/03-23:36:03.838 46ec Reusing old log D:\New folder\pihustore\backend\whatsapp-session\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/003671.log 
+2025/07/03-23:36:10.255 3878 Compacting 1@1 + 10@2 files
+2025/07/03-23:36:10.679 3878 Generated table #3676@1: 84465 keys, 2232168 bytes
+2025/07/03-23:36:10.881 3878 Level-0 table #3679: started
+2025/07/03-23:36:10.889 3878 Level-0 table #3679: 31762 bytes OK
+2025/07/03-23:36:10.895 3878 Delete type=0 #3671
+2025/07/03-23:36:11.100 3878 Generated table #3677@1: 96589 keys, 2264184 bytes
+2025/07/03-23:36:11.351 3878 Generated table #3680@1: 33455 keys, 2185488 bytes
+2025/07/03-23:36:11.596 3878 Generated table #3681@1: 55733 keys, 2221647 bytes
+2025/07/03-23:36:11.662 3878 Generated table #3682@1: 1144 keys, 2137401 bytes
+2025/07/03-23:36:11.751 3878 Generated table #3683@1: 3185 keys, 2165822 bytes
+2025/07/03-23:36:11.832 3878 Generated table #3684@1: 2154 keys, 2146179 bytes
+2025/07/03-23:36:11.930 3878 Generated table #3685@1: 3843 keys, 2154720 bytes
+2025/07/03-23:36:12.017 3878 Generated table #3686@1: 3731 keys, 2158403 bytes
+2025/07/03-23:36:12.215 3878 Generated table #3687@1: 30715 keys, 2246126 bytes
+2025/07/03-23:36:12.230 3878 Generated table #3688@1: 859 keys, 74593 bytes
+2025/07/03-23:36:12.230 3878 Compacted 1@1 + 10@2 files => 21986731 bytes
+2025/07/03-23:36:12.232 3878 compacted to: files[ 1 1 23 0 0 0 0 ]
+2025/07/03-23:36:12.233 3878 Manual compaction at level-0 from '\x00o\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00p\x00\x00\x00' @ 0 : 0; will stop at '\x00o\x00\x00\x05' @ 11248719 : 1
+2025/07/03-23:36:12.233 3878 Compacting 1@0 + 1@1 files
+2025/07/03-23:36:12.246 3878 Generated table #3689@0: 690 keys, 14713 bytes
+2025/07/03-23:36:12.253 3878 Generated table #3690@0: 108 keys, 8693 bytes
+2025/07/03-23:36:12.253 3878 Compacted 1@0 + 1@1 files => 23406 bytes
+2025/07/03-23:36:12.254 3878 compacted to: files[ 0 2 23 0 0 0 0 ]
+2025/07/03-23:36:12.255 3878 Delete type=2 #3679
+2025/07/03-23:36:12.256 3878 Manual compaction at level-0 from '\x00o\x00\x00\x05' @ 11248719 : 1 .. '\x00p\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/07/03-23:36:20.574 3878 Compacting 1@1 + 2@2 files
+2025/07/03-23:36:20.796 3878 Generated table #3691@1: 27583 keys, 2256824 bytes
+2025/07/03-23:36:20.981 3878 Generated table #3692@1: 29736 keys, 2195454 bytes
+2025/07/03-23:36:20.981 3878 Compacted 1@1 + 2@2 files => 4452278 bytes
+2025/07/03-23:36:20.982 3878 compacted to: files[ 0 1 23 0 0 0 0 ]
+2025/07/03-23:36:20.983 3878 Delete type=2 #3658
+2025/07/03-23:36:20.984 3878 Delete type=2 #3659
+2025/07/03-23:36:20.984 3878 Delete type=2 #3660
+2025/07/03-23:36:20.984 3878 Delete type=2 #3661
+2025/07/03-23:36:20.984 3878 Delete type=2 #3662
+2025/07/03-23:36:20.984 3878 Delete type=2 #3663
+2025/07/03-23:36:20.984 3878 Delete type=2 #3664
+2025/07/03-23:36:20.984 3878 Delete type=2 #3665
+2025/07/03-23:36:20.984 3878 Delete type=2 #3666
+2025/07/03-23:36:20.984 3878 Delete type=2 #3667
+2025/07/03-23:36:20.984 3878 Delete type=2 #3673
+2025/07/03-23:36:20.984 3878 Delete type=2 #3674
+2025/07/03-23:36:21.233 3878 Compacting 1@1 + 3@2 files
+2025/07/03-23:36:21.516 3878 Generated table #3693@1: 84570 keys, 2233849 bytes
+2025/07/03-23:36:21.832 3878 Generated table #3694@1: 96615 keys, 2263670 bytes
+2025/07/03-23:36:21.979 3878 Generated table #3695@1: 33454 keys, 2184568 bytes
+2025/07/03-23:36:21.979 3878 Compacted 1@1 + 3@2 files => 6682087 bytes
+2025/07/03-23:36:21.980 3878 compacted to: files[ 0 0 23 0 0 0 0 ]
+2025/07/03-23:36:21.981 3878 Delete type=2 #3669
+2025/07/03-23:36:21.981 3878 Delete type=2 #3670
+2025/07/03-23:36:21.981 3878 Delete type=2 #3676
+2025/07/03-23:36:21.982 3878 Delete type=2 #3677
+2025/07/03-23:36:21.982 3878 Delete type=2 #3680
+2025/07/03-23:36:21.982 3878 Delete type=2 #3689
+2025/07/03-23:36:21.982 3878 Delete type=2 #3690
